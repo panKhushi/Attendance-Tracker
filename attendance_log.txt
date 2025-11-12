@@ -1,0 +1,15 @@
+ATTENDANCE REPORT
+--------------------------------------
+Student Name        	Check-in Time
+--------------------------------------
+RIYA SHARMA         	9:00 AM
+ARJUN SINGH         	9:10 AM
+MEENA VERMA         	9:15 AM
+--------------------------------------
+
+Total Students in Class: 5
+Total Present:           3
+Total Absent:            2
+
+Report Generated On: 2025-11-07 22:38:55
+--------------------------------------
